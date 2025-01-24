@@ -24,7 +24,7 @@ Make sure `ffmpeg` is installed on your system and accessible via the command li
 ## Installation
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/YouTube-WAV-Downloader.git
+   git clone https://github.com/MMDLOID/YouTube-WAV-Downloader-Cookie.git
    cd YouTube-WAV-Downloader
    ```
 2. Place the script (`YouTube_to_WAV.py`) in a directory of your choice.
