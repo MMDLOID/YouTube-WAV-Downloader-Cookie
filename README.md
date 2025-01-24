@@ -61,9 +61,6 @@ Some YouTube videos may require authentication. To resolve this:
    'cookies': 'cookies.txt',
    ```
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for YouTube video downloading.
 - [FFmpeg](https://ffmpeg.org) for powerful audio processing.
