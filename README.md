@@ -54,7 +54,7 @@ python YouTube_to_WAV.py https://www.youtube.com/watch?v=aqz-KE-bpKQ
 
 ### Using a Cookies File
 Some YouTube videos may require authentication. To resolve this:
-1. Install the [Get Cookies.txt]([https://chrome.google.com/webstore/detail/get-cookiestxt/fldmcdmbojjnaeibddoooagecekgkaac](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)) browser extension.
+1. Install the [Get Cookies.txt]([https://chrome.google.com/webstore/detail/get-cookiestxt/fldmcdmbojjnaeibddoooagecekgkaac](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) browser extension.
 2. Export your YouTube cookies and save them as `cookies.txt` in the same directory as the script.
 3. Modify the script's `ydl_opts` to include:
    ```python
